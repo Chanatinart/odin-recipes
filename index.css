@@ -1,0 +1,17 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+#head{
+    font-size: large;
+    background-color: lightsalmon;
+    text-align: center;
+    color: white;
+}
+.pic{
+ height: 200px;
+ width: auto;
+}
+.div {
+    text-align: center;
+}
